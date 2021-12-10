@@ -61,7 +61,10 @@
   background: transparent; 
 
 }
-
+.btn-color {
+  background-color: #BB2528;
+  color: white;
+}
 
 body { -webkit-font-smoothing: antialiased; }
 
